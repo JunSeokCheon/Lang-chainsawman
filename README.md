@@ -74,3 +74,6 @@ Docs → Use cases →  Integrations → Guides → API → More
 당일 22시 05분에 랜덤으로 1명 추첨하여 발표진행
 
 연속 2주 걸렸다면 그 다음주는 면제하거나 확률을 줄이는 방식으로 진행할 예정
+
+## 진도
+Week 1 : Get Started ~ Why use LCEL
