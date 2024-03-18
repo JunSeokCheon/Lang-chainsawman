@@ -77,3 +77,6 @@ Docs → Use cases →  Integrations → Guides → API → More
 
 ## 진도
 Week 1 : Get Started ~ Why use LCEL
+
+
+# 모든 내용은 가짜연구소 출처입니다.
