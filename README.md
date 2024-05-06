@@ -40,7 +40,7 @@
 
 ## 진행 순서
 
-랭체인 쿡북 : https://python.langchain.com/docs/get_started
+랭체인 쿡북 : [https://python.langchain.com/docs/get_started](https://python.langchain.com/docs/get_started/introduction)
 
 Docs → Use cases →  Integrations → Guides → API → More
 
