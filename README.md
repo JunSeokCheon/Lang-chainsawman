@@ -1,5 +1,13 @@
 # Lang-chainsawman
 
+해당 저장소는 가짜 연구소 주관으로 진행한 2024년 상반기 8기 스터디인 Lang-chainsawman 입니다.  
+Lang-chainsawman 은 Langchain을 더 깊게 이해하고, 효율적인 Chatbot 개발을 목표로 둡니다.  
+필자는 8기 러너로 참여하여, 스터디를 무사히 끝마쳤습니다.  
+모든 자료는 **가짜연구소** 출처이므로, 출처를 꼭 남겨주시면 감사하겠습니다.
+
+---
+
+# 스터디 목적
 <aside>
 💡 LangChain은 언어 모델을 기반으로 하는 애플리케이션을 개발하기 위한 프레임워크로, 특히 Chatbot 개발에 많이 활용되고 있습니다.
 
@@ -76,7 +84,19 @@ Docs → Use cases →  Integrations → Guides → API → More
 연속 2주 걸렸다면 그 다음주는 면제하거나 확률을 줄이는 방식으로 진행할 예정
 
 ## 진도
-Week 1 : Get Started ~ Why use LCEL
+Week 1 : Get Started ~ Why use LCEL  
+Week 2 : Interface ~ Cookbook(Using tools)  
+Week 3 : Modules -> Chat Models -> Tracking token usage  
+Week 4 : LLMs ~ Retrieval  
+Week 5 : Components Composition  
+Week 6 : Components -> More -> Memory  
+Week 7 : Components -> More -> callbacks  
+Week 8 : Debugging -> run llms locally  
+Week 9 : Guides -> Productionizaion -> Evaliation -> String Evaluators  
+Week 10 : Guides -> Productionizaion -> Fallbacks  
+Week 11 : Privacy & Safety > Logical Fallacy chain  
+Week 12 : Privacy & Safety > Logical Fallacy chain ~ QA with private data protection  
+
 
 
 # 모든 내용은 가짜연구소 출처입니다.
